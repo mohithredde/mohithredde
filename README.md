@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mohithredde</h1>
+<h1 align="center">Hi 👋, I'm mohithreddy</h1>
 <h3 align="center">A passionate java fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **java full stack**
